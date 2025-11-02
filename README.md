@@ -18,6 +18,7 @@ ALGUMAS BASES DE DADOS
 - The UN Security Council Debates (https://doi.org/10.7910/DVN/KGVSYH), Do ‘texto como texto’ ao ‘texto como dado’: o potencial das pesquisas em Relações Internacionais (https://doi.org/10.1590/1678-98732230e005)
 - UN General Debate (Jankin, S., Baturo, A., & Dasandi, N. (2024). Words to unite nations: The complete United Nations General Debate Corpus, 1946–present. Journal of Peace Research, 62(4), 1339-1351. https://doi.org/10.1177/00223433241275335) (https://doi.org/10.7910/DVN/0TJX8Y)
 - UN General Assembly Resolutions Text (https://doi.org/10.7910/DVN/WSWMMP) Mesquita, R., & Pires, A. (2024). The references of the nations: Introducing a corpus of United Nations General Assembly resolutions since 1946 and their citation network. Journal of Peace Research, 62(4), 1279-1291. (https://doi.org/10.1177/00223433241254997)
+- Opinião Pública e política externa: Las Americas (https://github.com/las-americas/cebrap)
 - Farias, Rogério de Souza; Carmo, Géssica Fernando do, 2020, "Atores, eventos e redes da política externa brasileira (1930-1985)" (https://doi.org/10.7910/DVN/3556RW)
 - Política Externa em Números (https://sites.usp.br/pen/)
 - Desastres naturais (https://www.emdat.be/)
